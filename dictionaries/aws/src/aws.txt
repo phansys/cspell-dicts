@@ -1165,6 +1165,8 @@ runner
 runs
 runtime
 sagemaker
+SAM
+samconfig
 saml
 sample
 sampled
